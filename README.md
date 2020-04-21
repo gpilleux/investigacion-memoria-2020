@@ -16,4 +16,4 @@ El problema que hemos logrado identificar es que los aportes al código por part
 
 El desconocer qué nuevas vulnerabilidades se introducen con el cambio del código, no se pueden tomar decisiones con respecto a la seguridad de la app.
 
-El approach para abordar la problemática, en primera instancia, es hacer un sistema que se comunique con los pull requests (PR) y sea capaz de identificar bugs en el código (puede ser código estático o código en "vivo") para luego generar un reporte (algún warning) sobre el estado del código. Si logra encontrar vulnerabilidades, entonces este rechaza el PR para ser corregido.
+El approach para abordar la problemática, en primera instancia, es hacer un sistema que se comunique con los pull requests (PR) y sea capaz de identificar vulnerabilidades en el código (puede ser código estático o código en "vivo") para luego generar un reporte (algún warning) sobre el estado del código. Si logra encontrar vulnerabilidades, entonces este rechaza el PR para ser corregido.
