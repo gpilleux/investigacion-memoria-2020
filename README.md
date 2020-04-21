@@ -12,7 +12,7 @@ La investigación que llevo hasta la fecha (fecha inicio marzo 2020) la he reali
 ## Definición del tema de memoria
 Ahora hay que acotar y converger a un problema específico.
 
-El problema que hemos logrado identificar es que los aportes al código por parte de los developers no son centralizados. Si bien los aportes se revisan entre parejas, no existe un "revisor universal" para verificar que no se estén incorporando bugs al código.
+El problema que hemos logrado identificar es que los aportes al código por parte de los developers no son centralizados. Si bien los aportes se revisan entre parejas, no existe un "revisor universal" para verificar que no se estén incorporando vulnerabilidades al código.
 
 Este problema tiene la consecuencia de que el CTO no sabe qué tan vulnerable es la aplicación por lo tanto no se toman decisiones con respecto a la seguridad de la app.
 
